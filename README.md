@@ -33,6 +33,17 @@ The goal of this project is to provide a structured roadmap to the Azure ecosyst
 1.  [Chapter 1: Foundations of Cloud Computing](./docs/CHAPTER_01.md)
 2.  [Chapter 2: The Five Essential Characteristics of Cloud Computing](./docs/CHAPTER_02.md)
 3.  [Chapter 3: Types of Service & The Shared Responsibility Model](./docs/CHAPTER_03.md)
+
+---
+
+## 🔗 References & Learning Resources
+
+This handbook is curated based on top-tier educational materials. Special thanks to the following resources:
+
+* **🎥 John Savill's AZ-900 Certification Course:** A legendary study guide for Azure fundamentals.  
+    [Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
+
+
 ---
 
 ## 🤝 Contributing
