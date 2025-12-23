@@ -31,10 +31,7 @@ The goal of this project is to provide a structured roadmap to the Azure ecosyst
 ## 🗺️ Table of Contents
 
 1.  [Chapter 1: Foundations of Cloud Computing](./CHAPTER_01.md)
-2.  [Chapter 2: Everything as a Service (IaaS, PaaS, SaaS)](#) *(Coming Soon)*
-3.  [Chapter 3: Introduction to Microsoft Azure](#) *(Coming Soon)*
-4.  [Chapter 4: Azure Control Plane & Governance](#) *(Coming Soon)*
-
+2.  [Chapter 2: The Five Essential Characteristics of Cloud Computing](./CHAPTER_02.md)
 ---
 
 ## 🤝 Contributing

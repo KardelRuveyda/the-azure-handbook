@@ -6,7 +6,7 @@ According to NIST, a platform must possess five essential characteristics to be 
 
 ---
 
-## 🚀 The 5 Pillars of Cloud
+## The 5 Pillars of Cloud
 
 ### 1. On-Demand Self-Service
 Cloud computing removes the middleman. Users can provision computing capabilities (server time, network storage) automatically as needed.
@@ -18,8 +18,6 @@ Capabilities are available over the network and accessed through standard mechan
 * **Key Benefit:** Accessibility.
 * **Supported Devices:** Mobile phones, tablets, laptops, and workstations.
 
-
-
 ### 3. Resource Pooling
 The provider’s computing resources are pooled to serve multiple consumers using a **Multi-tenant** model. 
 * **Key Benefit:** Efficiency and Scale.
@@ -30,8 +28,6 @@ The ability to scale resources outward and inward dynamically based on real-time
 * **Key Benefit:** Cost Optimization.
 * **The Illusion:** To the consumer, the cloud appears to provide an **infinite** amount of resources.
 
-
-
 ### 5. Measured Service
 Cloud systems automatically control and optimize resource use by leveraging a metering capability.
 * **Key Benefit:** Transparency (Pay-as-you-go).
@@ -39,7 +35,7 @@ Cloud systems automatically control and optimize resource use by leveraging a me
 
 ---
 
-## 📊 Comparison: Cloud vs. Traditional IT
+## Comparison: Cloud vs. Traditional IT
 
 | Feature | Traditional On-Premises | NIST Cloud Computing |
 | :--- | :--- | :--- |
@@ -51,6 +47,6 @@ Cloud systems automatically control and optimize resource use by leveraging a me
 
 ---
 
-## 💡 Pro-Tip: The "Abstraction" Layer
+## Pro-Tip: The Abstraction Layer
 
-In a modern cloud environment like **Microsoft Azure**,
+In a modern cloud environment like **Microsoft Azure**, you interact with a Control Plane. You focus on performance and service levels rather than physical hardware maintenance.

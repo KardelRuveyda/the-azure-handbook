@@ -1,6 +1,6 @@
-* [🏠 Home](README.md)
+* [Home](README.md)
 
-* ☁️ Cloud Computing & Azure 101
+* Cloud Computing & Azure 101
     * [Chapter 1: Foundations of Cloud Computing](CHAPTER_01.md#foundations-of-cloud-computing)
         * [Private Cloud](CHAPTER_01.md#1-private-cloud)
         * [Public Cloud](CHAPTER_01.md#2-public-cloud)
@@ -9,11 +9,10 @@
         * [Comparison Matrix](CHAPTER_01.md#comparison-matrix)
     * [Chapter 2: Essential Characteristics of Cloud](CHAPTER_02.md#chapter-2-the-five-essential-characteristics-of-cloud-computing)
         * [The 5 Pillars of Cloud](CHAPTER_02.md#the-5-pillars-of-cloud)
-          * [On-Demand Self-Service](CHAPTER_02.md#1-on-demand-self-service)
-          * [Broad Network Access](CHAPTER_02.md#2-broad-network-access)
-          * [Resource Pooling](CHAPTER_02.md#3-resource-pooling)
-          * [Rapid Elasticity](CHAPTER_02.md#4-rapid-elasticity)
-          * [Measured Service](CHAPTER_02.md#5-measured-service)
-          * [Cloud vs. Traditional IT](CHAPTER_02.md#comparison-cloud-vs-traditional-it)
-          * [The Abstraction Layer](CHAPTER_02.md#pro-tip-the-abstraction-layer)
-
+            * [On-Demand Self-Service](CHAPTER_02.md#1-on-demand-self-service)
+            * [Broad Network Access](CHAPTER_02.md#2-broad-network-access)
+            * [Resource Pooling](CHAPTER_02.md#3-resource-pooling)
+            * [Rapid Elasticity](CHAPTER_02.md#4-rapid-elasticity)
+            * [Measured Service](CHAPTER_02.md#5-measured-service)
+        * [Cloud vs Traditional IT](CHAPTER_02.md#comparison-cloud-vs-traditional-it)
+        * [The Abstraction Layer](CHAPTER_02.md#pro-tip-the-abstraction-layer)
