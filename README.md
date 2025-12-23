@@ -30,8 +30,8 @@ The goal of this project is to provide a structured roadmap to the Azure ecosyst
 
 ## 🗺️ Table of Contents
 
-1.  [Chapter 1: Foundations of Cloud Computing](./CHAPTER_01.md)
-2.  [Chapter 2: The Five Essential Characteristics of Cloud Computing](./CHAPTER_02.md)
+1.  [Chapter 1: Foundations of Cloud Computing](./docs/CHAPTER_01.md)
+2.  [Chapter 2: The Five Essential Characteristics of Cloud Computing](./docs/CHAPTER_02.md)
 ---
 
 ## 🤝 Contributing
