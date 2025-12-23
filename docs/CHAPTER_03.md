@@ -104,3 +104,37 @@ Even in SaaS (Restaurant), you are never *completely* free of responsibility. Th
 3.  **IaaS Last:** Use IaaS only if you need specific control over the Operating System or are doing a quick migration where you can't refactor the application yet.
 
 > **Key Takeaway:** The general rule in life (and cloud) is: **The less we are responsible for that isn't key to our core purpose, the better.**
+
+## 6. A Developer's Perspective: Real-World Scenarios
+
+As a developer, your primary goal is to deploy code, not manage cables or update Windows. Here is how you map your coding needs to Azure services:
+
+### PaaS: The Developer's Gold Standard
+This is where modern development happens. You want to push your code and have it run.
+* **Scenario:** You have a Node.js, Python, or .NET web application.
+* **The Solution:** Use **Azure App Service**. You don't create a VM; you don't install IIS/Nginx. You just deploy the code.
+* **Scenario:** You need a database.
+* **The Solution:** Use **Azure SQL Database** or **Cosmos DB**. You get a connection string, and Azure handles the backups and updates.
+
+### IaaS: The "Strict Control" Option
+Use this only when you are forced to access the Operating System directly.
+* **Scenario:** You have a legacy application that requires a specific registry change or a custom installation on the C: drive.
+* **The Solution:** Use **Azure Virtual Machines**. It is like having a remote computer where you must install and configure everything manually.
+
+### SaaS: Integration over Creation
+Don't reinvent the wheel. If a feature exists as a service, integrate it.
+* **Scenario:** You need a login screen and user management.
+* **The Solution:** Use **Microsoft Entra ID**. Don't write your own auth database.
+* **Scenario:** You need to host your Git repositories.
+* **The Solution:** Use **Azure DevOps** or **GitHub**.
+
+### Developer Decision Matrix
+
+| Your Requirement | Service Model | Azure Example |
+| :--- | :--- | :--- |
+| "I have a standard API or Web App." | **PaaS** | Azure App Service |
+| "I need to run a single function (e.g., resize image)." | **PaaS (Serverless)** | Azure Functions |
+| "I need a database." | **PaaS** | Azure SQL / Cosmos DB |
+| "I have a legacy .exe that needs OS registry access." | **IaaS** | Azure Virtual Machine |
+| "I am using Docker Containers." | **PaaS** | Azure Kubernetes (AKS) / Container Apps |
+| "I need to send emails." | **SaaS** | SendGrid / M365 Integration |
