@@ -2,16 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Open AI Dotnet API Kitap</title>
+  <title>The Azure Handbook - Cloud & Azure</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="A comprehensive guide to Microsoft Azure and Cloud Computing fundamentals.">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <meta property="og:image" content="https://kardelruveyda.github.io/docs/images/dotnet.png" />
-  <meta property='og:title' content='Open AI Dotnet API Kitap'/>
-  <meta property='og:description' content='Dotnet Open AI API için açık kaynak Türkçe içerik'/>
+  
+  <meta property="og:image" content="azure.png" />
+  <meta property='og:title' content='The Azure Handbook'/>
+  <meta property='og:description' content='Microsoft Azure ve Bulut Bilişim için açık kaynak Türkçe ve İngilizce rehber.'/>
+  
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
-  <link rel="shortcut icon" type="image/png" href="./images/dotnet.png" >  
+  <link rel="shortcut icon" type="image/png" href="azure.png" >  
 
 </head>
 <body>
@@ -20,20 +22,22 @@
 
   <script>
     window.$docsify = {
-      name: 'Open AI Dotnet API Kitap',
-      repo: 'https://github.com/KardelRuveyda/openai-dotnet-turkish-book',
+      name: 'The Azure Handbook',
+      repo: 'https://github.com/KardelRuveyda/the-azure-handbook', // Repo ismini buraya göre güncelleyebilirsin
       loadSidebar: true,
+      subMaxLevel: 3, // Sidebar derinliğini artırır, alt başlıkları gösterir
+      coverpage: false, // İstersen ileride true yapıp bir kapak sayfası ekleyebilirsin
       plugins: [
         EditOnGithubPlugin.create(
-          'https://github.com/KardelRuveyda/openai-dotnet-turkish-book/blob/main/docs/',
+          'https://github.com/KardelRuveyda/the-azure-handbook/blob/main/',
           null,
-          "",
+          "GitHub'da Düzenle",
         ),
         function(hook) {
           var footer = [
             '<hr/>',
             '<footer>',
-            '<span><a href="https://github.com/KardelRuveyda">Kardel Rüveyda Çetin</a> &copy;2025</span>',
+            '<span><a href="https://github.com/KardelRuveyda">Kardel Rüveyda Çetin</a> &copy; 2025 | The Azure Handbook</span>',
             '</footer>'
           ].join('');
 
@@ -44,7 +48,7 @@
       ],
     }
   </script>
+  
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-
-</body>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script> <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script> </body>
 </html>
