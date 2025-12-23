@@ -4,6 +4,12 @@
   <img src="azure.png" alt="Azure Handbook Banner" width="600">
 </p>
 
+<p align="center">
+  <strong>🚀 Read the handbook here: <a href="https://kardelruveyda.github.io/the-azure-handbook/">https://kardelruveyda.github.io/the-azure-handbook/</a></strong>
+</p>
+
+---
+
 Welcome to **The Azure Handbook**! This repository is a comprehensive guide and resource hub for anyone looking to master Microsoft Azure and modern Cloud Computing fundamentals. 
 
 Whether you are a student, a cloud enthusiast, or an IT professional transitioning to the cloud, this handbook breaks down complex concepts into digestible, actionable knowledge.
@@ -24,7 +30,7 @@ The goal of this project is to provide a structured roadmap to the Azure ecosyst
 
 ## 🗺️ Table of Contents
 
-1.  [Chapter 1: Foundations of Cloud Computing](./docs/CHAPTER_01.md)
+1.  [Chapter 1: Foundations of Cloud Computing](./CHAPTER_01.md)
 2.  [Chapter 2: Everything as a Service (IaaS, PaaS, SaaS)](#) *(Coming Soon)*
 3.  [Chapter 3: Introduction to Microsoft Azure](#) *(Coming Soon)*
 4.  [Chapter 4: Azure Control Plane & Governance](#) *(Coming Soon)*
@@ -33,4 +39,7 @@ The goal of this project is to provide a structured roadmap to the Azure ecosyst
 
 ## 🤝 Contributing
 
-This is an open-source project!
+This is an open-source project! If you'd like to improve the content, feel free to submit a Pull Request.
+
+---
+**Maintained by Kardel Rüveyda Çetin** • *Let's build in the cloud!*
