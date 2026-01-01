@@ -47,6 +47,8 @@ Imagine you manage the official **TS Club** online store:
 * **On-Premises:** You would have to buy 100 servers just for that one championship night. For the rest of the year, those servers sit idle and waste money.
 * **In the Cloud:** You scale up to 100 servers for that specific night. Once the celebration ends, you delete the extra resources. **You only pay for what you use.**
 
+<img width="385" height="218" alt="image" src="https://github.com/user-attachments/assets/e38eb212-4a43-4d67-b043-20669cfd4ae0" />
+
 ---
 
 ## 4. Key Business Benefits
