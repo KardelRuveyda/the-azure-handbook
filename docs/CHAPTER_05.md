@@ -32,7 +32,7 @@ Moving to the cloud changes how your company spends money. It moves from **CapEx
 * **CapEx (Capital Expenditure):** This is like buying a house. You pay a huge amount of money upfront. You own the hardware, but you are stuck with it for 3-5 years even if it becomes old.
 * **OpEx (Operational Expenditure):** This is like paying for monthly rent or a Netflix subscription. There is no big upfront cost. You pay as you go. Businesses usually prefer OpEx because it gives them more "cash flow" to spend on other things.
 
-[Image of CAPEX vs OPEX comparison in cloud computing]
+<img width="750" height="580" alt="image" src="https://github.com/user-attachments/assets/62f71b2b-0205-42ec-b593-2e4fbdd36b07" />
 
 ---
 
@@ -65,7 +65,7 @@ Latency is the time it takes for a signal to travel from one place to another.
 * If you move the control app to the cloud, the signal has to travel a long distance over the internet to talk to the machine.
 * Light only travels so fast! This "distance" creates a delay (**latency**). If your app is sensitive to delays, it is better to keep the app and the machine close together.
 
-[Image of network latency showing the delay between cloud and on-premises]
+<img width="882" height="528" alt="image" src="https://github.com/user-attachments/assets/fd669759-7d40-4166-931e-eeee1030317f" />
 
 ---
 
