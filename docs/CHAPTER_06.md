@@ -72,12 +72,4 @@ With so many options, how do you decide what to use?
 2.  **Take your time:** The transcript says, "It’s going to take you some time" to understand everything. Don't try to learn all 200+ services in one day.
 3.  **Start with the basics:** Learn Compute, Networking, and Storage first. Everything else is built on top of those three.
 
----
 
-## 6. How to Get Started
-
-If you want to learn, you need to "get your hands dirty."
-* **Azure Free Account:** Microsoft offers a free account with some credit so you can try these services for yourself.
-* **Learning Paths:** Use Microsoft Learn to follow step-by-step guides for the specific tools you are interested in.
-
-> **Key Lesson:** Don't let the number of services scare you. Azure is a toolbox; you don't need to use every tool at once. Pick the one that solves your problem today!
