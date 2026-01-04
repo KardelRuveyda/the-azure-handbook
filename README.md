@@ -29,11 +29,13 @@ The goal of this project is to provide a structured roadmap to the Azure ecosyst
 ---
 
 ## 🗺️ Table of Contents
-
-1.  [Chapter 1: Foundations of Cloud Computing](./docs/CHAPTER_01.md)
+1.  [Chapter 1: Foundations of Cloud Computing](../docs/CHAPTER_01.md)
 2.  [Chapter 2: The Five Essential Characteristics of Cloud Computing](./docs/CHAPTER_02.md)
-3.  [Chapter 3: Types of Service & The Shared Responsibility Model](./docs/CHAPTER_03.md)
-
+3.  [Chapter 3: Types of Service & The Shared Responsibility Model](../docs/CHAPTER_03.md)
+4. [Chapter 4: When and Why to Use Public Cloud](./docs/CHAPTER_04.md)
+5. [Chapter 5: Dipping Your Toe in the Water: How to Start Your Cloud Journey](./docs/CHAPTER_05.md)
+6. [Chapter 06: Exploring Azure Services](./docs/CHAPTER_06.md)
+7. [CHAPTER 07: Getting Started with Azure and Subscription Models](./docs/CHAPTER_07.md)
 ---
 
 ## 🔗 References & Learning Resources
