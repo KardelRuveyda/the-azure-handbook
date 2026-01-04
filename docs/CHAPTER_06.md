@@ -18,7 +18,7 @@ Microsoft organizes its services into categories. This helps you find what you n
 * **Analytics:** Services for processing and understanding big data.
 * **Security:** Tools to protect your identity and your resources.
 
-
+<img width="1579" height="944" alt="image" src="https://github.com/user-attachments/assets/f3bb3803-2963-4fa0-8e92-d50958410dbf" />
 
 ---
 
@@ -37,8 +37,7 @@ If you want to be more modern, Azure offers:
 * **Azure Kubernetes Service (AKS):** For managing complex container environments.
 * **Azure Container Apps:** A simpler way to run containers without managing the underlying servers.
 
-
-
+<img width="1579" height="944" alt="image" src="https://github.com/user-attachments/assets/7171ec96-8c2f-4496-a415-ce87f69a7182" />
 ---
 
 ## 3. The New Frontier: AI and Machine Learning
@@ -50,6 +49,7 @@ The transcript mentions that AI is one of the most exciting parts of Azure today
 * **Bot Services:** For creating intelligent chat bots.
 * **Video Indexer:** A service that can "watch" a video and tell you what is happening, who is speaking, and what words are being used.
 
+<img width="333" height="151" alt="image" src="https://github.com/user-attachments/assets/7f5a2d21-b832-4346-a87e-4ef919804d35" />
 
 
 ---
@@ -60,6 +60,8 @@ Every application needs to save data. Azure offers many different "flavors" of d
 * **Relational Databases:** Like Azure SQL, MySQL, and PostgreSQL. These are great for structured data.
 * **NoSQL Databases:** Like **Azure Cosmos DB**. This is perfect if you need a database that works globally with very high speed.
 * **Caching:** Tools like **Azure Cache for Redis** help your applications run faster by keeping frequently used data in memory.
+
+<img width="1112" height="552" alt="image" src="https://github.com/user-attachments/assets/46586ffb-3369-40ec-b89c-a2db66bede4c" />
 
 ---
 
