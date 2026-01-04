@@ -13,7 +13,7 @@ To understand who is winning in the cloud world, we use the **Gartner Magic Quad
     * **Databases:** Cloud database management solutions.
     * **AI:** Artificial Intelligence development services.
 
-
+<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/8f3e1ce6-28d3-476b-9104-d57e2ce5dd27" />
 
 ---
 
@@ -35,6 +35,7 @@ When new technology like AI or Large Language Models (LLMs) comes out, people us
 4.  **Slope of Enlightenment:** People start to understand how to actually use it for real work.
 5.  **Plateau of Productivity:** The technology becomes a standard, useful tool.
 
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/ecc37596-3e9e-44c8-b7da-5f49fd2c611b" />
 
 
 ### Why this matters for your choice:
