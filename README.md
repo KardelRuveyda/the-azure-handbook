@@ -36,6 +36,8 @@ The goal of this project is to provide a structured roadmap to the Azure ecosyst
 5. [Chapter 5: Dipping Your Toe in the Water: How to Start Your Cloud Journey](./docs/CHAPTER_05.md)
 6. [Chapter 06: Exploring Azure Services](./docs/CHAPTER_06.md)
 7. [CHAPTER 07: Getting Started with Azure and Subscription Models](./docs/CHAPTER_07.md)
+8. [CHAPTER 08: Deep Dive into Cloud Reliability](./docs/CHAPTER_08.md)
+9. [CHAPTER 09: Why Choose Azure? (The Global Perspective)](./docs/CHAPTER_09.md)
 ---
 
 ## 🔗 References & Learning Resources

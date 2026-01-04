@@ -8,3 +8,5 @@
     * [Chapter 5: Dipping Your Toe in the Water: How to Start Your Cloud Journey](CHAPTER_05.md)
     * [Chapter 06: Exploring Azure Services](CHAPTER_06.md)
     * [CHAPTER 07: Getting Started with Azure and Subscription Models](CHAPTER_07.md)
+    * [CHAPTER 08: Deep Dive into Cloud Reliability](CHAPTER_08.md)
+    * [CHAPTER 09: Why Choose Azure? (The Global Perspective)](CHAPTER_09.md)
