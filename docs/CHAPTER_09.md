@@ -11,9 +11,7 @@ To understand who is winning in the cloud world, we use the **Gartner Magic Quad
     * **Strategic Cloud Services:** Both Infrastructure (IaaS) and Platform (PaaS) services.
     * **Identity:** Access management and security.
     * **Databases:** Cloud database management solutions.
-    * **AI:** Artificial Intelligence development services.
-
-<img width="3000" height="1000" alt="image" src="https://github.com/user-attachments/assets/8f3e1ce6-28d3-476b-9104-d57e2ce5dd27" />
+    * **AI:** Artificial Intelligence development services
 
 ---
 
