@@ -37,7 +37,8 @@ If you want to be more modern, Azure offers:
 * **Azure Kubernetes Service (AKS):** For managing complex container environments.
 * **Azure Container Apps:** A simpler way to run containers without managing the underlying servers.
 
-<img width="1579" height="944" alt="image" src="https://github.com/user-attachments/assets/7171ec96-8c2f-4496-a415-ce87f69a7182" />
+<img width="771" height="434" alt="image" src="https://github.com/user-attachments/assets/7ed12156-f60a-4898-9227-1da3d0f1e4ec" />
+
 ---
 
 ## 3. The New Frontier: AI and Machine Learning
