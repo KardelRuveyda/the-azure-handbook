@@ -13,7 +13,7 @@ To understand who is winning in the cloud world, we use the **Gartner Magic Quad
     * **Databases:** Cloud database management solutions.
     * **AI:** Artificial Intelligence development services.
 
-<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/8f3e1ce6-28d3-476b-9104-d57e2ce5dd27" />
+<img width="3000" height="1000" alt="image" src="https://github.com/user-attachments/assets/8f3e1ce6-28d3-476b-9104-d57e2ce5dd27" />
 
 ---
 
