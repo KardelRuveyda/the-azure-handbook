@@ -38,6 +38,13 @@ The goal of this project is to provide a structured roadmap to the Azure ecosyst
 7. [CHAPTER 07: Getting Started with Azure and Subscription Models](./docs/CHAPTER_07.md)
 8. [CHAPTER 08: Deep Dive into Cloud Reliability](./docs/CHAPTER_08.md)
 9. [CHAPTER 09: Why Choose Azure? (The Global Perspective)](./docs/CHAPTER_09.md)
+10. [CHAPTER 10: Identity - The Modern Security Perimeter](./docs/CHAPTER_10.md)
+11. [CHAPTER 11: Mechanics of Microsoft Entra ID)](./docs/CHAPTER_11.md)
+12. [CHAPTER 12: Implementation — Tenants, Domains, and Licensing)](./docs/CHAPTER_12.md)
+13. [CHAPTER 13: The Future — Decentralized Identity (DID)](./docs/CHAPTER_13.md)
+14. [CHAPTER 14: User Objects and the "Carbon-Based" Requirement](./docs/CHAPTER_14.md)
+15. [CHAPTER 15: Security Groups and Dynamic Membership Logic](./docs/CHAPTER_15.md)
+16. [CHAPTER 16: Non-Human Identities (Service Principals & Managed Identities)](./docs/CHAPTER_16.md)
 ---
 
 ## 🔗 References & Learning Resources

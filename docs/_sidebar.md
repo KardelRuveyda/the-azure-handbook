@@ -10,3 +10,12 @@
     * [CHAPTER 07: Getting Started with Azure and Subscription Models](CHAPTER_07.md)
     * [CHAPTER 08: Deep Dive into Cloud Reliability](CHAPTER_08.md)
     * [CHAPTER 09: Why Choose Azure? (The Global Perspective)](CHAPTER_09.md)
+    * [CHAPTER 09: Why Choose Azure? (The Global Perspective)](./CHAPTER_09.md)
+    * [CHAPTER 10: Identity - The Modern Security Perimeter](./CHAPTER_10.md)
+    * [CHAPTER 11: Mechanics of Microsoft Entra ID)](./CHAPTER_11.md)
+    * [CHAPTER 12: Implementation — Tenants, Domains, and Licensing)](./CHAPTER_12.md)
+    * [CHAPTER 13: The Future — Decentralized Identity (DID)](./CHAPTER_13.md)
+    * [CHAPTER 14: User Objects and the "Carbon-Based" Requirement](./CHAPTER_14.md)
+    * [CHAPTER 15: Security Groups and Dynamic Membership Logic](./CHAPTER_15.md)
+    * [CHAPTER 16: Non-Human Identities (Service Principals & Managed Identities)](./CHAPTER_16.md)
+    
