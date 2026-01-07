@@ -13,7 +13,7 @@ In a hybrid setup, your local Active Directory (AD) is the **Source of Truth**. 
 * **The Overwrite Rule:** If an employee, **John**, tries to change his department back to "Sales" in the Cloud Portal (because he likes the old name), the sync engine will catch him. It will say: *"The Boss (Local AD) says you are in Global Growth,"* and it will **delete John's change** to match the local server during the next sync.
 * **Why?** We need one "Master Record" so that data stays consistent across the entire company.
 
-
+<img width="1575" height="645" alt="image" src="https://github.com/user-attachments/assets/b3c8f87b-34eb-4ccd-9360-a623f3c9fed3" />
 
 ---
 
@@ -27,6 +27,8 @@ Think of this as a **Large Factory** installed on a Windows Server.
     2.  **The Metaverse:** This is the "Engine Room" in the middle. It takes the data from both waiting rooms and **merges** them into one single identity. 
 * **Maintenance:** You are the factory manager. You must manage the Windows OS, handle the database, and perform manual software updates.
 
+<img width="1341" height="483" alt="image" src="https://github.com/user-attachments/assets/9568a12e-20c4-4efd-8342-5d6a89410186" />
+
 
 
 ### B. Entra Cloud Sync (The Modern "Light" Engine)
@@ -34,7 +36,7 @@ Think of this as a **Small Remote Sensor**. You install a tiny "agent" instead o
 * **Disconnected Forests:** Nova Innovations just bought a startup in London. The London office has its own network that **cannot talk** to the New York office. **Cloud Sync** can connect both networks to the same cloud tenant. The "Heavy Factory" (Connect Sync) cannot do this.
 * **Tier 0 Security:** This agent can create and change users. Therefore, the server it lives on must be treated as a **Tier 0 Asset**—the highest security level. If a hacker gets into this server, they control the identity of your whole company.
 
-
+<img width="863" height="654" alt="image" src="https://github.com/user-attachments/assets/61459c51-6e59-4242-a2f1-3003efbc983f" />
 
 ---
 
@@ -57,6 +59,8 @@ Nova Innovations uses an **HR System** (like Workday) to automate the "Joiner-Mo
 4.  The Agent creates Alice in the **Local AD**.
 5.  The Bridge syncs Alice back up to **Entra ID**.
 * **Result:** Alice is ready to work on day one without IT doing any manual work!
+
+<img width="1072" height="570" alt="image" src="https://github.com/user-attachments/assets/c32b9dc4-ad88-4df5-9807-a6a54a0c5a5a" />
 
 ---
 
