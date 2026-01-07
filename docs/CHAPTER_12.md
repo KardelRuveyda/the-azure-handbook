@@ -21,8 +21,8 @@ This chapter covers how to get started with Entra ID and how to manage your orga
 
 <img width="1200" height="707" alt="image" src="https://github.com/user-attachments/assets/0ff17c93-8510-46f1-8c6d-81802cce8839" />
 <img width="413" height="265" alt="image" src="https://github.com/user-attachments/assets/76b30110-992c-449f-8897-cb3967d974ac" />
-<img width="609" height="472" alt="image" src="https://github.com/user-attachments/assets/2ac74fb9-7d2a-466a-a4f2-3d3036bc9f24" />
 <img width="1200" height="707" alt="image" src="https://github.com/user-attachments/assets/1bf235bd-4108-4dc4-883f-cd363ae2ab19" />
+<img width="609" height="472" alt="image" src="https://github.com/user-attachments/assets/2ac74fb9-7d2a-466a-a4f2-3d3036bc9f24" />
 
 ---
 
