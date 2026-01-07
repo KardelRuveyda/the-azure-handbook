@@ -45,6 +45,7 @@ The goal of this project is to provide a structured roadmap to the Azure ecosyst
 14. [CHAPTER 14: User Objects and the "Carbon-Based" Requirement](./docs/CHAPTER_14.md)
 15. [CHAPTER 15: Security Groups and Dynamic Membership Logic](./docs/CHAPTER_15.md)
 16. [CHAPTER 16: Non-Human Identities (Service Principals & Managed Identities)](./docs/CHAPTER_16.md)
+17. [CHAPTER 17: The Bridge Between Local AD and Entra ID)](./docs/CHAPTER_17.md)
 ---
 
 ## 🔗 References & Learning Resources

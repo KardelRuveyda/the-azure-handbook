@@ -16,3 +16,4 @@
 14. [CHAPTER 14: User Objects and the "Carbon-Based" Requirement](./CHAPTER_14.md)
 15. [CHAPTER 15: Security Groups and Dynamic Membership Logic](./CHAPTER_15.md)
 16. [CHAPTER 16: Non-Human Identities (Service Principals & Managed Identities)](./CHAPTER_16.md)
+17. [CHAPTER 17: The Bridge Between Local AD and Entra ID)](./CHAPTER_17.md)
