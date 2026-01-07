@@ -60,7 +60,7 @@ Nova Innovations uses an **HR System** (like Workday) to automate the "Joiner-Mo
 
 ---
 
-## 5. Summary Table for Students
+## 5. Summary Table 
 
 | Feature | Entra Connect Sync | Entra Cloud Sync |
 | :--- | :--- | :--- |
