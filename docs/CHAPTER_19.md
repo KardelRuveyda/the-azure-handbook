@@ -1,4 +1,4 @@
-# CHAPTER 19: Deep Dive into Microsoft Entra ID Roles and Administrative Units
+<img width="851" height="281" alt="image" src="https://github.com/user-attachments/assets/879a8c32-15a6-49e5-836b-bbe7f482ed48" /># CHAPTER 19: Deep Dive into Microsoft Entra ID Roles and Administrative Units
 
 This documentation provides a technical breakdown of how to manage identities, delegate permissions, and restrict administrative scope within Microsoft Entra ID.
 
@@ -22,6 +22,8 @@ By default, you assign roles to users. If you want to assign a role to a **Group
 2. **Membership Constraint:** These groups **must** use **Assigned** membership. They cannot be Dynamic groups.
 3. **Management:** These are cloud-only groups; they do not replicate from an on-premises Active Directory.
 
+<img width="810" height="542" alt="image" src="https://github.com/user-attachments/assets/bf6f3c4d-745c-4aea-831f-c19ad77944d8" />
+
 ---
 
 ## 2. Administrative Units (AUs): Scoping Permissions
@@ -40,6 +42,8 @@ There is a specific security rule when you add a group to an AU:
 * The AU admin **cannot** manage the **users inside that group** unless those users are also added to the AU as individual objects. 
 * **Why?** This prevents an admin from adding a user to a group to give them unauthorized tenant-wide permissions.
 
+<img width="851" height="281" alt="image" src="https://github.com/user-attachments/assets/100abe38-4769-4035-a6b9-f6683efd4fb2" />
+
 ---
 
 ## 3. Restricted Management Administrative Units
@@ -48,6 +52,8 @@ This is a specialized, "hardened" version of an AU designed for high-value accou
 
 * **Tenant-wide Block:** Usually, a tenant-wide administrator can manage any user. In a **Restricted Management AU**, even tenant-wide admins are blocked from managing the members.
 * **Global Admin Override:** A Global Admin is still a "Super User." They can technically modify the AU to give themselves access, but this action is recorded in the **Audit Logs**. This prevents "silent" or hidden management of VIP accounts.
+
+<img width="734" height="327" alt="image" src="https://github.com/user-attachments/assets/ae191737-b113-4387-9037-74ce8248ab0f" />
 
 ---
 
@@ -63,6 +69,11 @@ PIM introduces the concept of **Just-In-Time (JIT)** access. Instead of having a
     * **Approval:** Require a manager to approve the request.
     * **Ticket:** Require a helpdesk ticket number.
     * **Authentication Context:** You can link activation to a **Conditional Access Policy** (e.g., the user must be on a secure, compliant workstation).
+
+<img width="1200" height="262" alt="image" src="https://github.com/user-attachments/assets/a8919a34-e6a3-48a6-8e38-58cfb63f7e24" />
+<img width="756" height="357" alt="image" src="https://github.com/user-attachments/assets/5d3aa071-acdb-455b-b402-2d616f86f2bf" />
+<img width="1200" height="269" alt="image" src="https://github.com/user-attachments/assets/28b7b481-3602-4986-8017-280fdd932e57" />
+<img width="2096" height="1291" alt="image" src="https://github.com/user-attachments/assets/7b02383e-6240-434e-8315-8388ae53e135" />
 
 ---
 
