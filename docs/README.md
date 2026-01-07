@@ -17,3 +17,4 @@
 15. [CHAPTER 15: Security Groups and Dynamic Membership Logic](./CHAPTER_15.md)
 16. [CHAPTER 16: Non-Human Identities (Service Principals & Managed Identities)](./CHAPTER_16.md)
 17. [CHAPTER 17: The Bridge Between Local AD and Entra ID)](./CHAPTER_17.md)
+18. [ CHAPTER 18: Understanding Authentication and Authorization in Microsoft Entra ID)](./CHAPTER_18.md)
