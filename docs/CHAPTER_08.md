@@ -42,6 +42,8 @@ This is a key tool for reliability. Inside a specific Azure **Region**, there ar
 * **Isolation:** They even have independent "Control Planes" (the brain that manages the zone).
 * **Your Strategy:** If you distribute your app across these zones, your service stays online even if a whole building goes down.
 
+<img width="871" height="352" alt="image" src="https://github.com/user-attachments/assets/2c4d01db-e24d-426f-b2ed-64086160d1fc" />
+
 ---
 
 ## 5. Advanced Reliability Projects
