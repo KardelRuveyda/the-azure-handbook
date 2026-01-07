@@ -1,4 +1,4 @@
-<img width="851" height="281" alt="image" src="https://github.com/user-attachments/assets/879a8c32-15a6-49e5-836b-bbe7f482ed48" /># CHAPTER 19: Deep Dive into Microsoft Entra ID Roles and Administrative Units
+# CHAPTER 19: Deep Dive into Microsoft Entra ID Roles and Administrative Units
 
 This documentation provides a technical breakdown of how to manage identities, delegate permissions, and restrict administrative scope within Microsoft Entra ID.
 
