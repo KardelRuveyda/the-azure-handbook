@@ -13,6 +13,7 @@ Decentralized Identity uses three main players:
 2.  **The Holder (User):** You receive the VC and store it in your **Digital Wallet** (e.g., Microsoft Authenticator).
 3.  **The Verifier:** An entity (e.g., a bank) that needs to check your information.
 
+<img width="775" height="432" alt="image" src="https://github.com/user-attachments/assets/c73e59d4-6638-4895-bf31-c9dd6a72fb91" />
 
 
 ---
