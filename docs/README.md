@@ -19,3 +19,4 @@
 17. [CHAPTER 17: The Bridge Between Local AD and Entra ID)](./CHAPTER_17.md)
 18. [ CHAPTER 18: Understanding Authentication and Authorization in Microsoft Entra ID)](./CHAPTER_18.md)
 19. [ CHAPTER 19: Microsoft Entra ID Roles and Administrative Units](./CHAPTER_19.md)
+20. [CHAPTER 20: Conditional Access and Zero Trust Implementation](./CHAPTER_20.md)
