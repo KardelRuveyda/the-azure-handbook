@@ -22,5 +22,4 @@
     * [CHAPTER 18: Understanding Authentication and Authorization in Microsoft Entra ID)](./CHAPTER_18.md)
     * [CHAPTER 19: Microsoft Entra ID Roles and Administrative Units](./CHAPTER_19.md)
     * [CHAPTER 20: Conditional Access and Zero Trust Implementation](./CHAPTER_20.md)
-
     
