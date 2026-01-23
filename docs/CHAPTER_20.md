@@ -13,6 +13,9 @@ At its foundation, Conditional Access is an if-then statement:
 * **If** a user wants to access a resource,
 * **Then** they must satisfy specific requirements.
 
+![Conditional Access If-Then Logic](https://learn.microsoft.com/en-us/entra/identity/conditional-access/media/overview/conditional-access-signal-decision-enforcement.png)
+*Figure 1: The fundamental logic of Conditional Access - Signal collection, decision-making, and enforcement stages. Source: [Microsoft Learn - Conditional Access Overview](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)*
+
 ### **Why Organizations Need This**
 Traditional perimeter security assumed that anything inside the corporate network was trustworthy. Conditional Access rejects this assumption. Every access request is evaluated based on current context, not just a successful login.
 
@@ -33,6 +36,9 @@ These are the data points evaluated when a user attempts access:
 * **Risk Level:** Integration with Entra ID Protection. Is the sign-in flagged as risky? Is the user flagged as compromised?
 * **Client Application Type:** Browser, mobile app, legacy authentication protocols.
 
+![Conditional Access Signals](https://learn.microsoft.com/en-us/entra/identity/conditional-access/media/concept-conditional-access-conditions/conditional-access-conditions.png)
+*Figure 2: All signal types that can be evaluated in Conditional Access policies - user, location, device, application, and risk signals. Source: [Microsoft Learn - Conditional Access Conditions](https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-conditional-access-conditions)*
+
 ### **B. Decisions**
 After evaluating signals, the policy makes one of three decisions:
 * **Grant Access:** Allow the user to proceed.
@@ -43,6 +49,10 @@ After evaluating signals, the policy makes one of three decisions:
 If access is granted conditionally, these are the requirements a user must satisfy:
 
 **Grant Controls:**
+
+![Grant Controls Configuration](https://learn.microsoft.com/en-us/entra/identity/conditional-access/media/concept-conditional-access-grant/conditional-access-grant.png)
+*Figure 3: Grant Controls configuration screen in Azure Portal - MFA, device compliance, and approved application requirements. Source: [Microsoft Learn - Grant Controls](https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-conditional-access-grant)*
+
 * **Require Multifactor Authentication (MFA):** User must complete a second verification step.
 * **Require Device Compliance:** Device must meet organizational security policies (managed by Intune).
 * **Require Hybrid Azure AD Joined Device:** Device must be joined to both on-premises AD and Entra ID.
@@ -93,6 +103,9 @@ Policies in this state are evaluated but not enforced.
 * **Use case:** Deploy a new policy in report-only mode. Review sign-in logs for 7-14 days to identify unintended impacts (e.g., blocking critical users or apps).
 * **Where to check:** Entra ID > Sign-in logs > Select an event > "Report-only" tab.
 
+![Report-Only Mode Results](https://learn.microsoft.com/en-us/entra/identity/conditional-access/media/concept-conditional-access-report-only/report-only-detail-in-sign-in-log.png)
+*Figure 4: Report-Only mode results in sign-in logs - Interface for testing the potential impact of policies. Source: [Microsoft Learn - Report-Only Mode](https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-conditional-access-report-only)*
+
 ### **What-If Tool**
 This tool simulates policy application.
 * **Input:** Specify a user, application, device platform, and location.
@@ -110,6 +123,9 @@ This Azure Monitor workbook provides visualizations:
 ## 5. Zero Trust Principles
 
 Conditional Access is the enforcement mechanism for Zero Trust in Azure.
+
+![Zero Trust Model](https://learn.microsoft.com/en-us/security/zero-trust/media/diagram-zero-trust-security-elements.png)
+*Figure 5: Zero Trust security model - Integration of Identity, Endpoints, Apps, Data, Infrastructure, and Network layers. Source: [Microsoft Learn - Zero Trust Identity](https://learn.microsoft.com/en-us/security/zero-trust/deploy/identity)*
 
 ### **The Three Pillars**
 **1. Verify Explicitly**
